@@ -25,3 +25,5 @@ Trading is a boring and lonely journey. Why not trade together? Have a look at o
 Link to Telegram Channel - https://t.me/unofficed/🤾‍♂️
 
 If you have questions 👨‍💻😉🤷‍♂️❓❓ ask them in the Slack Channel.
+
+Use this strategy to automate in various brokers of NSE Exchange - Zerodha, Upstox, Alice Blue, SAS Online, 5paisa, IIFL, Interactive Brokers, Fyers using the algo trading APIs.
