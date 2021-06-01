@@ -1,5 +1,7 @@
 # The BankNIFTY Golden Ratio Strategy
 
+Please read this FIRST - https://forum.unofficed.com/t/using-futures-data-on-banknifty-golden-ratio-strategy/518
+
 Scrip = BANKNIFTY Futures
 
 Golden Number = ((Previous Day High - Previous Day Low) + Opening Range of Today's First 10 minutes))*61.8%
