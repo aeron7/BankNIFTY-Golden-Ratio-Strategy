@@ -13,7 +13,7 @@ Sell Below = (Previous Day Close - Goldern Number)
 
 #### Stop Loss at 0.5% Target at 2%
 
-Its a bad but popular strategy that makes decent returns.
+Its a bad but popular among sub brokers and scam marketeers as it makes huge brokerage in the end of the day. The returns looks fantastic if you don't show the charges 
 
 ## Tutorial
 All in One Playlist - https://youtube.com/watch?v=jjrDpc2vnM4&list=PLQ4ZLPe8sUF0n77ftl6zwrVxk94luxe-G
